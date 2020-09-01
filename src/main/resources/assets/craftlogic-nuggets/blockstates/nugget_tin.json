@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "craftlogic-nuggets:nugget_tin",
+        "item": true,
+        "x": 90
+      },
+      {
+        "model": "craftlogic-nuggets:nugget_tin",
+        "item": true,
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "craftlogic-nuggets:nugget_tin",
+        "item": true,
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "craftlogic-nuggets:nugget_tin",
+        "item": true,
+        "x": 90,
+        "y": 270
+      }
+    ]
+  }
+}
